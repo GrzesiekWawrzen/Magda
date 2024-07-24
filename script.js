@@ -15,7 +15,7 @@ document.getElementById('submitBtn').addEventListener('click', function(event) {
         emailOptIn: 1,
         mobileOptIn: 0,
         monitoringOptIn: 1,
-         addTags: ["REGISTER","SPEKTAKTL"],
+         //addTags: ["REGISTER","SPEKTAKTL"],
         standardDetails: {
             spektakt: "jasimalgosia",
             gender: "Male"
