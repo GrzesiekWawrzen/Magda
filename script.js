@@ -16,10 +16,10 @@ document.getElementById('submitBtn').addEventListener('click', function(event) {
         mobileOptIn: 0,
         monitoringOptIn: 1,
          //addTags: ["REGISTER","SPEKTAKTL"],
-        standardDetails: {
-            spektakt: "jasimalgosia",
-            gender: "Male"
-        }
+        //standardDetails: {
+        //    spektakt: "jasimalgosia",
+        //   gender: "Male"
+        //}
         
     };
 
